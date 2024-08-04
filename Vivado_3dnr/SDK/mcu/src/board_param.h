@@ -5,8 +5,8 @@
 #include "xparameters.h"
 
 
-#define SOFTWARE_VERSION		0x24072400
-#define FACTORY_VERSION			 "24072400"
+#define SOFTWARE_VERSION		0x24080400
+#define FACTORY_VERSION			 "24080400"
 
 //--------------------------------- ddr base  -------------------------------------------//
 #define PL_DDR_BASE_ADDR					0x80000000

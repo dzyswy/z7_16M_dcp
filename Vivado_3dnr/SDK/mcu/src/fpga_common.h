@@ -31,7 +31,7 @@ union UnU64Double {
 };
 
 
-#define DEBUG		0
+#define DEBUG		1
 
 #if DEBUG
 //#define plog(...)			xil_printf(__VA_ARGS__)
